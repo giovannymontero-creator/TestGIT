@@ -4,7 +4,7 @@ public class PruebaGIT {
 		
 		Robot unidad1 = new Robot("DANTE");
 		
-		unidad1.setMision("Explorar otro planeta");
+		unidad1.setMision("explorar otro planeta");
 		
 		System.out.println("La tarea de la unidad es " + unidad1.getMision());
 		
